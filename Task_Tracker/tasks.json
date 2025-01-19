@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "cli activity",
+        "description": " roadmap activity",
+        "status": 1,
+        "createdAt": 1737299683.7396612,
+        "updatedAt": 1737299699.9715292
+    },
+    {
+        "id": 2,
+        "title": "cli activity final",
+        "description": " final one",
+        "status": 3,
+        "createdAt": 1737299912.909465,
+        "updatedAt": 1737299912.909465
+    }
+]
