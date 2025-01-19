@@ -30,7 +30,8 @@ def status_to_string(status):
 
 def menu():
     while True:
-        print("\nPlease choose an option:")
+        print("\nWelcome to task manager")
+        print("Please choose an option:")
         print("0. View Tasks")
         print("1. Add Task")
         print("2. Update Task")
